@@ -12,7 +12,7 @@ gsutil cp gs://spls/gsp517/chef.py .
 
 rm -rf Dockerfile chef.py
 
-wget https://raw.githubusercontent.com/BishalBudhathoki/rand/refs/heads/main/dockerfile.txt
+wget https://raw.githubusercontent.com/BishalBudhathoki/rand/refs/heads/main/Dockerfile.txt
 
 wget https://raw.githubusercontent.com/BishalBudhathoki/rand/refs/heads/main/chef.py
 
